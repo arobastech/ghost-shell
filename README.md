@@ -1,2 +1,2 @@
 # ghost-shell
-install Ghost from shell Script
+Ghost Auto-Installer with bash script
